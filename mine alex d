@@ -1,25 +1,28 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>mwebsite for m</title>
-    </head>
-<body>
-     <img src = "url" />
-</body>
-<header>
-    <div align = "center">
-    <font face = "Impact">    what are you doing you dumb idiot </font face>
-    </div align>
-</header>
-<nav> 
+<!DOCTYPE html> 
+<html>  
+<head>         
+<title>mwebsite for m</title>     
+</head> 
+<body>   
+<img src = "url" /> 
+</body>  
+<header>    
+<div align = "center">     
+<font face = "Impact">   
+what are you doing you dumb idiot 
+</font face>  
+</div align>  
+</header> 
+<nav> 
 <div align = "center">
-<font size = "2">To the left you may see pointless stuff like, nothing </font size>
-</div align>
-</nav>
-<article>
-<div align = "down">    Hey bud    </div align>
-    </article>
-    <div class = "row 20">
-    <footer> this is the end of my small website wher eyou found no useful information </footer>
-   
-</html>
+<font size = "2">To the left you may see pointless stuff like, nothing 
+</font size>
+</div align> 
+</nav>  
+<article> 
+<h1> Hi there</h1> <p> This is my website, I have nothing here at the moment</p>  
+</article>
+<div class = "row 20">      
+<footer>  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> this is the end of my small website where you found no useful information 
+</footer>                
+
